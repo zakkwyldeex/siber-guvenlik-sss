@@ -122,6 +122,7 @@ https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA \
 Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \
 Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \
 Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw
+Cemal Taner: https://www.youtube.com/channel/UClzBAbvojmq32DpHqyqhkPA
 
 # Makalaler/Yazılar 
 En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
